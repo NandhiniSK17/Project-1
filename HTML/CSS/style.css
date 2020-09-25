@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+}
+p {
+  color: pink;
+}
+h3 {
+  color: green;
+}
+li {
+  background-color: hotpink;
+  color: navy;
+  text-align: left;
+}
+href {
+  text-decoration: palevioletred;
+  border-left-style: initial;
+  text-shadow: lightgrey;
+}
